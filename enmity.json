@@ -16,6 +16,21 @@
       "tintColor": "6D00FF",
       "size": 76794285,
       "beta": false
+    },
+    {
+      "name": "Enmity (Dev)",
+      "bundleIdentifier": "com.hammerandchisel.discorddev",
+      "developerName": "Enmity Team",
+      "subtitle": "The power of addons, all in your hand.",
+      "version": "151.0",
+      "versionDate": "2022-11-02",
+      "versionDescription": "Updated Discord to 151.0",
+      "downloadURL": "https://github.com/enmity-mod/tweak/releases/latest/download/enmity.development.ipa",
+      "localizedDescription": "Add plugins and themes to Discord!",
+      "iconURL": "https://files.enmity.app/icon-altstore.png",
+      "tintColor": "6D00FF",
+      "size": 76794285,
+      "beta": false
     }
   ],
   "userInfo": {}
